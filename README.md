@@ -1,3 +1,6 @@
+I used interactive charts in my project in order to see it properly please use this link:
+https://nbviewer.org/github/barbrender/statistical_data_analysis/blob/main/Statistic_final.ipynb
+
 # statistical_data_analysis
 
 ## Which plan is a better?
